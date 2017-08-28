@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/LostLand/demoScene.unity
+- path: Assets/RPG_Style.unity
   isLoaded: 1
   isActive: 1
