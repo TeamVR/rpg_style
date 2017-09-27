@@ -2,6 +2,7 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/IK.cs">
     <Files>
+      <File FileName="Assets/Scripts/Bazooka.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/IK.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
